@@ -1,0 +1,17 @@
+Assignment question 1 output:
+
+Upon running BSTprob.java:
+15 6 7 13
+15 6 7 13
+
+Upon running both the tests in TestBST.java: test passed
+
+
+Assignment question 2 output:
+
+The frequency array after counting:
+2 1 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 2
+The cumulative count array:
+2 3 3 3 3 3 3 4 4 4 5 6 6 6 6 7 7 7 7 7 7 7 8 9 9 11
+Sorted array:
+A A B H K L P W X Z Z

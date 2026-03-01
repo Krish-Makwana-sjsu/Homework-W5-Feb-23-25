@@ -136,7 +136,7 @@ public class BSTprob {
 
         // Printing the returned list (Sanity check)
         for(int x: linkedList1) {
-            System.out.println(x + " ");
+            System.out.print(x + " ");
         }
         System.out.println();
 
@@ -145,7 +145,7 @@ public class BSTprob {
 
         // Printing the returned list (Sanity check)
         for(int x: linkedList2) {
-            System.out.println(x + " ");
+            System.out.print(x + " ");
         }
 
     }
